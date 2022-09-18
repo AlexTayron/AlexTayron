@@ -21,5 +21,5 @@
 <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-![Snake animation](https://github.com/AlexTayron/blob/output/github-contribution-grid-snake.svg)
-  </div></br>
+![Snake animation](https://github.com/alextayron/blob/output/github-contribution-grid-snake.svg)
+</div></br>
