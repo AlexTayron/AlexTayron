@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/alextayron/)
 
 ![Alex Tayron's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexTayron&show_icons=true&theme=dracula)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTayron&layout=compact&langs_count=7&theme=dracula"/>
+<img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTayron&layout=compact&langs_count=7&theme=dracula"/>
 
 ## Tecnologias que uso e amo!
 
