@@ -1,5 +1,5 @@
-### Hi there! I'm Alex Tayron! 👋
-
+## E ai! Eu sou Alex Tayron! 👋
+### Sou Análista de sistema com especialização em Arquitertura de software
 
 [![GitHub](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/alextayron/)
 
