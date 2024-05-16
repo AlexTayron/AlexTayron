@@ -4,24 +4,24 @@
   <img width="15%" alt="Squirtle" src="https://media.tenor.com/lr6evdW49pcAAAAi/totodile-pokemon.gif" />
 </div>
 
-## ***Sobre mim***
+## **_Sobre mim_**
 
-- Estudante de engenharia de software na Unicesumar. 
+- Estudante de engenharia de software na Unicesumar.
 - Sou formado em Análise e Desenvolvimentp de sistemas tambem pela Unicesumar
-- Tem Pós em arquitetura de Software pela Anhanguera
-- 💻 Além da tecnologia, 🎮 Amo jogar com amigos (🧔 me encontre na steam: [Saint Rock](https://steamcommunity.com/id/saintrock/)), 
- 🎵 Sou apaixonado por música, 🍿 E amo ver filmes, séries e animes no meu tempo livre.
+- Tenho Pós em arquitetura de Software pela Anhanguera
+- 💻 Além da tecnologia, 🎮 Amo jogar com amigos (🧔 me encontre na steam: [Saint Rock](https://steamcommunity.com/id/saintrock/)),
+  🎵 Sou apaixonado por música, 🍿 E amo ver filmes, séries e animes no meu tempo livre.
 - 📫 Entre em contato comigo: <a href="alextayron@gmail.com">alextayron@gmail.com</a>
 
 ## 🧠 Ferramentas e linguagens de programação:
 
 <p align="center"> 
    <a href="https://www.java.com/pt-BR/" target="_blank"><img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/></a>
+   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.icons8.com/color/48/000000/spring-logo.png"/></a>
+   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/mysql-logo.png"/></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
     <a href="https://nodejs.org/en" target="_blank"><img src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
     <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/></a>
-    <a href="https://flutter.dev" target="_blank"><img src="https://img.icons8.com/color/48/null/flutter.png"/></a>
-    <a href="https://dart.dev" target="_blank"><img src="https://img.icons8.com/color/48/null/dart.png"/></a>
    <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
 </p>
 
@@ -38,7 +38,6 @@
     </p>
 </div>
 
-
 <!-- ## 📣 Redes sociais:
 <p align="center">
     <a href="https://www.behance.net/alextayron"><img src="https://img.icons8.com/color-glass/48/000000/behance.png"/></a>
@@ -47,6 +46,7 @@
 </p> -->
 
 ## ❤ Views & Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AlexTayron">
 </a>
